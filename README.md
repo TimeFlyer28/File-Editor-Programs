@@ -1,1 +1,1 @@
-Basically has some programs that can edit text files ans such
+Basically has some programs that can edit text files and such
